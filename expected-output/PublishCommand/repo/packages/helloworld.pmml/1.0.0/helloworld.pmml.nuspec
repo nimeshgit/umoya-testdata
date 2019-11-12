@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>HelloWorld.pmml</id>
+    <version>1.0.0</version>
+    <title>HelloWorld.pmml</title>
+    <authors>Anil</authors>
+    <owners>Tridi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://localhost:8007/icons/Model.png</iconUrl>
+    <description>Hello World Model</description>
+    <tags>TestModel,Model</tags>
+    <packageTypes>
+      <packageType name="Model" />
+    </packageTypes>
+    <contentFiles>
+      <files include="Model/HelloWorld.pmml" buildAction="Content" copyToOutput="false" flatten="true" />
+    </contentFiles>
+  </metadata>
+</package>

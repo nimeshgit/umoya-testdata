@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>HelloWorldCode.ipynb</id>
+    <version>1.0.0</version>
+    <title>HelloWorldCode.ipynb</title>
+    <authors>Peeyush</authors>
+    <owners>Rainer</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://localhost:8007/icons/Code.png</iconUrl>
+    <description>Hello World Code</description>
+    <tags>TestCode,Code</tags>
+    <packageTypes>
+      <packageType name="Code" />
+    </packageTypes>
+    <contentFiles>
+      <files include="Code/HelloWorldCode.ipynb" buildAction="Content" copyToOutput="false" flatten="true" />
+    </contentFiles>
+  </metadata>
+</package>

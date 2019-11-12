@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>HelloWorldData.csv</id>
+    <version>1.0.0</version>
+    <title>HelloWorldData.csv</title>
+    <authors>Swapnil</authors>
+    <owners>Vinay</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://localhost:8007/icons/Data.png</iconUrl>
+    <description>Hello World Data</description>
+    <tags>TestData,Data</tags>
+    <packageTypes>
+      <packageType name="Data" />
+    </packageTypes>
+    <contentFiles>
+      <files include="Data/HelloWorldData.csv" buildAction="Content" copyToOutput="false" flatten="true" />
+    </contentFiles>
+  </metadata>
+</package>
