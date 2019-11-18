@@ -1,5 +1,0 @@
-> Resource is prepared from template.
-> Resource spec is built.
-> Resource is packed.
-> Resource pushed to Repo (http://localhost:8007/v3/index.json)
-> UMOYA action <publish> successfully performed.
