@@ -1,5 +1,5 @@
 
-Type    Name of Resource       Description         Authors   Version   Downloads
+Class    Name of Resource       Description         Authors   Version   Downloads
 ________________________________________________________________________________
 Model   HelloWorld.pmml        Hello World Model   Anil      1.0.0     0
 --------------------------------------------------------------------------------
