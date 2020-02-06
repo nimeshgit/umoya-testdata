@@ -1,7 +1,7 @@
 
 Class   Name of Resource       Description         Authors   Version   Downloads
 ________________________________________________________________________________
-Model   HelloWorld.pmml        Hello World Model   Rainer    1.0.0     0        
+Model   HelloWorld.pmml        Hello World Model   Rainer    3.0.0     0        
 --------------------------------------------------------------------------------
 Code    HelloWorldCode.ipynb   Hello World Code    Rainer    1.0.0     0        
 --------------------------------------------------------------------------------
