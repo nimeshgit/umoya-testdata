@@ -6,5 +6,5 @@ Configuration:
   Version        : ${Version}
   Repo           : http://localhost:8007/v3/index.json, You can update this with CLI umoya info -u <repo url>.
   AccessKey      : NoAPIKey
-  ShowProgress   : False
+  ShowProgress   : True
   IsDebugging    : False
