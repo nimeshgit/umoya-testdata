@@ -1,5 +1,4 @@
 
-Configuration:
   ZMOD Home      : ${ZMODHome}
   Umoya Home     : ${UmoyaHome}
   Owner          : ${Owner}
